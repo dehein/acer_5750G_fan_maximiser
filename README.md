@@ -1,7 +1,7 @@
 # Acer 5750G/5755G Fan Maximiser
 ==========================
 
-Max out Acer 5755G/5750 Fan Speed.
+Max out Acer 5755G/5750 Fan Speed, and create FanController.exe for Linux, and other operating Systems.
 
 **WARNING:** this is untested software that, as far as the author is concerned, writes magic values to unknown ports on your laptop. This can easily cause **BRICKING** of your device. Use at your own risk and be sure to read the source code before running! This Software has been tested on by the authors on Acer 5750G and Acer 5755G laptops. Even so, it can not be guaranteed to work on your (same model) laptop as well. You have been warned!
 
