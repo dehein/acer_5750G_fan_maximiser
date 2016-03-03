@@ -1,6 +1,6 @@
 #!/usr/bin/perl -w
 
-# acer_5750G_fan_controller.pl
+# acer_5755G_fan_controller.pl
 # Copyright (C) 2014  Eduard Nicodei   eddnicodei (at) gmail.com
 #
 # This program is free software; you can redistribute it and/or
