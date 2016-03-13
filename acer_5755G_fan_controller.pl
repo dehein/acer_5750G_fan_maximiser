@@ -1,8 +1,7 @@
 #!/usr/bin/perl -w
 
 # acer_5755G_fan_controller.pl
-# Copyright (C) 2014  Eduard Nicodei   eddnicodei (at) gmail.com
-#
+# Copyright (C) 2016 Paul Hein dehein (at) gmail.com
 # This program is free software; you can redistribute it and/or
 # modify it under the terms of the GNU General Public License
 # as published by the Free Software Foundation; either version 3
@@ -17,6 +16,7 @@
 # along with this program; if not, write to the Free Software
 # Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
 #
+# Copyright (C) 2014  Eduard Nicodei   eddnicodei (at) gmail.com
 # This software is based on acer_ec.pl version 0.6.1 (2007-11-08):
 # Copyright (C) 2007  Michael Kurz     michi.kurz (at) googlemail.com
 # Copyright (C) 2007  Petr Tomasek     tomasek (#) etf,cuni,cz
